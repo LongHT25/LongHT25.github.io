@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hệ thống giám sát nhiệt độ đa kênh LM35"
+excerpt: "Dự án đo nhiệt độ 3 kênh cảm biến LM35, giao tiếp máy tính qua chuẩn JSON và vẽ đồ thị trên C#.<br/><img src='/images/arduino_project.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Đây là dự án thực hành trong môn học Mạng cảm biến. 
+
+## 📝 Tính năng:
+- Đọc dữ liệu từ 3 cảm biến LM35.
+- Đóng gói dữ liệu chuẩn JSON.
+- Hiển thị đồ thị thời gian thực trên App PC.
+
+## 🔗 Link Repository:
+[Xem mã nguồn dự án tại đây](https://github.com/LongHT25/Arduino_LM35_TempMonitor)
