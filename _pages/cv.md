@@ -30,8 +30,6 @@ Dự án
   
 Kỹ năng
 ======
-| Nhóm kỹ năng | Mô tả chi tiết |
-| :--- | :--- |
 | **Ngôn ngữ lập trình** | C++, C#, Python |
 | **Công cụ và phần mềm** | Proteus, Tinkercad, STM32CubeIDE, Keil MDK, Arduino IDE |
 | **Tiếng Anh** | Có khả năng đọc hiểu tài liệu chuyên ngành và giao tiếp tốt |
