@@ -9,37 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Học vấn
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Học viện công nghệ bưu chính viễn thông, 2023-nay
+* TH-THCS-THPT Lê Quý Đôn Quyết Thắng, 2020-2023
+* TH-THCS-THPT Lê Quý Đôn Quyết Thắng, 2016-2020
+* TH-THCS-THPT Lê Quý Đôn Quyết Thắng, 2011-2016
 
-Work experience
+Dự án
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Đồng hồ Arduino
+  * Vai trò: Phát triển độc lập (Dự án cá nhân)
+  * Mô tả công việc: Thiết kế mạch và lập trình vi điều khiển Arduino, tích hợp module thời gian thực (RTC) để xử lý và hiển thị thời gian chính xác.
+  * Công cụ: C++, Arduino IDE.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Giá phơi đồ thông minh tích hợp IoT
+  * Vai trò: Thành viên nhóm phát triển (Nhóm 4 người)
+  * Mô tả công việc: Phối hợp xây dựng hệ thống tự động thu/phơi đồ dựa trên dữ liệu cảm biến (mưa, độ ẩm, ánh sáng). Tích hợp module kết nối IoT để giám sát và điều khiển từ xa qua ứng dụng.
+  * Công cụ: Vi điều khiển, Cảm biến, Giao thức kết nối IoT.
   
-Skills
+Kỹ năng
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ngôn ngữ lập trình: C++, C#, Python.
+* Công cụ và phần mềm: Proteus, Tinkercad, STM32CubeIDE, Keil MDK, Arduino IDE.
+* Tiếng Anh: Có khả năng đọc hiểu tài liệu chuyên ngành và giao tiếp tốt.
+* Thái độ: Chịu khó, ham học hỏi, có trách nhiệm và chịu được áp lực công việc cao.
 
 Publications
 ======
